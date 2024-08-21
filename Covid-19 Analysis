@@ -1,0 +1,73 @@
+COVID-19 Data Exploration Project 📊
+
+Overview
+This project is a comprehensive SQL-based data exploration of global COVID-19 data. It showcases my skills in data analysis, including advanced SQL techniques such as joins, Common Table Expressions (CTEs), window functions, temporary tables, and aggregate functions. The objective is to derive meaningful insights from the data, such as infection rates, death rates, vaccination rates, and more.
+
+Table of Contents
+
+Project Description
+Skills Demonstrated
+Data Sources
+Analysis and Insights
+1. Basic Data Inspection
+2. Initial Data Selection
+3. Total Cases vs Total Deaths
+4. Total Cases vs Population
+5. Countries with the Highest Infection Rate
+6. Countries with the Highest Death Count
+7. Breakdown by Continent
+8. Global Numbers
+9. Total Population vs Vaccinations
+10. Using CTE to Calculate Rolling Vaccinations
+11. Using Temporary Tables to Calculate Rolling Vaccinations
+12. Exploring Time-Series Data
+13. Cluster Analysis
+14. Anomaly Detection
+Conclusion
+
+Project Description
+The COVID-19 pandemic has dramatically impacted the world, making it crucial to analyze the available data to understand its trends and implications. This project involves a thorough exploration of a COVID-19 dataset to uncover key insights using SQL. The dataset includes information on total cases, deaths, vaccinations, and more across different countries and continents.
+
+Skills Demonstrated
+SQL Joins: Efficiently combining data from multiple tables.
+Common Table Expressions (CTEs): Simplifying complex queries and improving readability.
+Window Functions: Calculating rolling averages, cumulative totals, and more.
+Aggregate Functions: Summarizing and grouping data for meaningful insights.
+Data Type Conversions: Handling data transformations and ensuring data integrity.
+Temporary Tables: Storing intermediate results for more complex analysis.
+
+Data Sources
+COVID-19 Data: The primary dataset for this analysis includes global records of COVID-19 cases, deaths, and vaccinations. This data is regularly updated and provides a comprehensive view of the pandemic's progression.
+
+Analysis and Insights
+1. Basic Data Inspection
+A quick overview of the data to understand its structure and contents.
+2. Initial Data Selection
+Focusing on essential fields such as location, date, total cases, and population to set the stage for deeper analysis.
+3. Total Cases vs Total Deaths
+Calculating the death percentage to understand the severity of COVID-19 in different regions.
+4. Total Cases vs Population
+Determining the percentage of the population infected with COVID-19.
+5. Countries with the Highest Infection Rate
+Identifying countries with the highest infection rates compared to their population.
+6. Countries with the Highest Death Count
+Finding the countries with the highest death count relative to their population.
+7. Breakdown by Continent
+Analyzing which continents have the highest death counts per population.
+8. Global Numbers
+Aggregating data to get global totals of cases and deaths and calculating the global death percentage.
+9. Total Population vs Vaccinations
+Analyzing the percentage of the population that has received at least one COVID-19 vaccine.
+10. Using CTE to Calculate Rolling Vaccinations
+Utilizing CTEs to streamline the calculation of rolling vaccination totals.
+11. Using Temporary Tables to Calculate Rolling Vaccinations
+Employing temporary tables for efficient data manipulation and repeated use.
+12. Exploring Time-Series Data
+Calculating a 7-day rolling average of new cases to smooth out daily fluctuations and analyze trends.
+13. Cluster Analysis
+Analyzing vaccination rates, infection rates, and death rates across different locations to identify patterns or clusters.
+14. Anomaly Detection
+Detecting anomalies in new COVID-19 cases by calculating Z-Scores to identify unusual spikes in cases.
+
+Conclusion
+This project highlights the power of SQL in exploring and deriving insights from complex datasets. By using advanced SQL techniques, I've been able to uncover significant trends and metrics related to the COVID-19 pandemic. This analysis can serve as a foundation for more advanced studies and decision-making processes related to public health.
